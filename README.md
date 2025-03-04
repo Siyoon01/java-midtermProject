@@ -16,8 +16,7 @@
 9. 결제하기 메뉴 선택 시 결제해야 할 총 금액을 출력하며 결제를 완료하면서 프로그램을 종료한다. <br />
 
 ## 실행 결과
+<img width="1190" alt="Image" src="https://github.com/user-attachments/assets/8c07cdfe-2929-4d7c-8559-87de5c6bed86" />
 
-
-
-
-
+## feedback
+중간고사 대체 프로젝트의 한계로 제한된 문법을 사용한 점, map, list 사용을 하지 못한 점.
